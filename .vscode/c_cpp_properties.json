@@ -3,11 +3,11 @@
         {
             "name": "Target 1",
             "includePath": [
-                "c:\\Users\\Hxg\\Desktop\\f103-\\Start",
-                "c:\\Users\\Hxg\\Desktop\\f103-\\Library",
-                "c:\\Users\\Hxg\\Desktop\\f103-\\User",
-                "c:\\Users\\Hxg\\Desktop\\f103-\\System",
-                "c:\\Users\\Hxg\\Desktop\\f103-\\RCS"
+                "c:\\Users\\Hxg\\Desktop\\f103\\Start",
+                "c:\\Users\\Hxg\\Desktop\\f103\\Library",
+                "c:\\Users\\Hxg\\Desktop\\f103\\User",
+                "c:\\Users\\Hxg\\Desktop\\f103\\System",
+                "c:\\Users\\Hxg\\Desktop\\f103\\RCS"
             ],
             "defines": [
                 "USE_STDPERIPH_DRIVER",
